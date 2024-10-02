@@ -1,0 +1,2 @@
+Logic:
+The form gets input of both names such that the Name of person1 can be viewed but the other is in password 🔑 format.The String collected is converted into int and added.. finally the value undergoes %100 to check the compatibility 
